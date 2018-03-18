@@ -1,0 +1,14 @@
+// 画面サイズ
+$screen_xs: "(max-width:768px)";    // スマホ以下
+$screen_sm: "(min-width:769px)";    // タブレット以上
+$screen_md: "(min-width:1025px)";   // PC以上
+$screen_lg: "(min-width:1200px)";   // PC（大画面）以上
+
+// 背景色
+$color_base:   #ffffff;    // ベースカラー
+$color_main:   #DDDDDD;    // メインカラー
+$color_accent: #9A9A9A;    // アクセントカラー
+
+// 文字色
+$fontColor_base: #9A9A9A;        // メインカラー
+$fontColor_secondary: #ffffff;   // サブカラー

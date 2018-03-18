@@ -1,0 +1,17 @@
+@import "../../foundation/variables";
+
+.article__title {
+    background-color: $color_main;
+    height: auto;
+    margin-bottom: 0;
+    margin-top: 1rem;
+    padding: 1rem;
+}
+
+.article__body {
+    background-color: $color_accent;
+    color: $fontColor_secondary;
+    height: auto;
+    margin-top: 0;
+    padding: 1rem;
+}

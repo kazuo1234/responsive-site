@@ -1,0 +1,19 @@
+@import "../foundation/variables";
+
+@media #{$screen_xs} {
+    .l-header {
+         height: 250px;
+    }
+    .header__image {
+        height: 250px;
+    }
+}
+
+@media #{$screen_sm} {
+    .l-header {
+        height: 500px;
+    }
+    .header__image {
+        height: 500px;
+    }
+}
