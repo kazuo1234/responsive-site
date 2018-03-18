@@ -4,17 +4,15 @@ body {
   color: #9A9A9A;
   width: 100%; }
 
+.l-header {
+  background-image: url(../images/img_main.png);
+  background-size: cover; }
+
 @media (max-width: 768px) {
   .l-header {
-    height: 250px; }
-
-  .header__image {
     height: 250px; } }
 @media (min-width: 769px) {
   .l-header {
-    height: 500px; }
-
-  .header__image {
     height: 500px; } }
 .l-main_content {
   display: grid;
